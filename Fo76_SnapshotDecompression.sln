@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fo76_SnapshotDecompression", "Fo76_SnapshotDecompression\Fo76_SnapshotDecompression.csproj", "{658DE3CA-B51F-456B-ADEA-CE138A1012EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658DE3CA-B51F-456B-ADEA-CE138A1012EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658DE3CA-B51F-456B-ADEA-CE138A1012EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658DE3CA-B51F-456B-ADEA-CE138A1012EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658DE3CA-B51F-456B-ADEA-CE138A1012EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE59E02-756F-40D0-BD4B-740E9A437B4B}
+	EndGlobalSection
+EndGlobal
