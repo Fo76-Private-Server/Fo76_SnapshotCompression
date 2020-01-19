@@ -1,4 +1,4 @@
-Repository for reconstructing the algorithm which compresses and decompresses the snapshots sent bei the server.
+Repository for reconstructing the algorithm which compresses and decompresses the snapshots sent by the server.
 
 Contains example data.
 
